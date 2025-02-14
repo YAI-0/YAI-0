@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi! I have been actively writing Full stack applications for Next for the last year.js and Nest.js, however, <br>I want to focus on Frontend.<br>I started my career with Express and EJS. I love new technologies, <br>I don't see any barriers in complex tasks, I write code only with TypeScript.<br>Sometimes I make my own libraries. I will be glad to meet you!
+🔭 I actively develop Full Stack applications using Next.js and Nest.js, but I want to focus more on Frontend.
+⚡ My journey started with Express.js, JavaScript, and AJAX.
+🌱 I love new technologies, see no obstacles in challenging tasks, and sometimes create my own libraries.
+💬 Currently, I’m working on [YAI-team](https://github.com/YAI-team).
+🤝 I’d be happy to connect with you!
 
 
 ## 🌐 Socials:
