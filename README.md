@@ -6,6 +6,8 @@
 💬 Currently, I’m working on [YAI-team](https://github.com/YAI-team). <br>
 🤝 I’d be happy to connect with you! <br>
 
+> This account will be deleted soon. Please switch to [Zoltroak](https://github.com/zoltroak).
+
 # 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
